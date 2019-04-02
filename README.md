@@ -1,4 +1,4 @@
-# Preview pdf files in EJ1 FileExplorer using pdfViewer control
+# Preview pdf files in EJ1 FileExplorer using pdfviewer control
 
 This example demonstrates how to preview pdf files in EJ1 FileExplorer using pdfViewer control. This can be achieved by passing the path of the file opened to the pdfviewer control with service url pointing to the PdfViewer controller. Also, you need to include the pdfviewer controller which processes the file path and opens the file in a new window. 
 
